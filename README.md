@@ -1,2 +1,1 @@
-
-![yyyyyyyyyyyyyyyyyya1](https://github.com/Mariia2308/CS-CV/assets/136304734/c388ec09-fac1-48d5-8514-cd42fdfd6185)
+![image](https://github.com/Mariia2308/CS-CV/assets/136304734/bfa63916-4400-4690-a632-2e9ff12b5c03)
