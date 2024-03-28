@@ -26,8 +26,9 @@ body{
 }
 
 .bluetextaccent{
-    color: #6096FF;
+    color: palevioletred;
 }
+
 
 .bluetext{
     font-style: normal;
@@ -35,7 +36,7 @@ body{
     font-size: 16px;
     line-height: 20px;
 
-    color: #6096FF;
+    color: palevioletred;
     margin-bottom: 8px;
 }
 
@@ -90,7 +91,7 @@ body{
     margin: auto;
 }
 
-.sidebar{background: #DFEEFF;
+.sidebar{background: palevioletred;
     padding-top: 40px;
     padding-bottom: 40 px;}
 
@@ -116,6 +117,11 @@ body{
     color: #161D2A;
     list-style: decimal;
 }
+.skills-list-lang{
+    padding-left: 20px;
+    display: flex;
+    gap: 150px;
+}
 
 .contacts-link{
     font-style: normal;
@@ -123,7 +129,7 @@ body{
     font-size: 14px;
     line-height: 24px;
     text-decoration-line: underline;
-    color: #6096FF;
+    color: black;
 }
 
 .projects-tech{
@@ -154,10 +160,10 @@ body{
 }
 
 .project-container{
-    margin-bottom: 44px;
+    margin-bottom: 20px;
 }
 
 .company-container{
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 
